@@ -1,0 +1,14 @@
+Andi punya masalah bagaimana menghitung pengeluaran bulanan andi , Andi bulan lalu memiliki uang 100 ribu, lalu dia diberikan oleh pamannya 100 rb , lalu, pengeluaran andi adalah membeli bakso 30 rb , ketoprak 10 rb . begaimana proses peneyelesaian masalah andi ? agar mendapatkan sisa uang andi
+
+
+set uangAndi = 100000
+set uangPaman = 100000
+
+set uangAndiSekarang =  uangAndi + uangPaman
+
+
+set beliBakso = 30000
+set belKetoprak = 10000
+set pengeluaran = beliKetoprak + beli bakso
+
+set saldoAndi = uangAndirsekarang - pengeluaran
